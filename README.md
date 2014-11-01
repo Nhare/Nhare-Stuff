@@ -1,2 +1,1 @@
-Notes--and--Practice
-====================
+Just ramblings, side projects, messing around.
